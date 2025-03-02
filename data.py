@@ -1,5 +1,3 @@
-# WRITE YOUR CODE HERE
-
 # List of movies
 
 favourite_movies = [
